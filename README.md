@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Bryson Mahuvi
+- 👋 Hi, I’m Bryson Mahuvi, a passionate developer who loves creating impactful projects and solving real-world problems with technology. 🚀
 - 👀 I’m interested in colaborating with coders in the World
 - 🌱 I’m currently learning Advanced API Testing
+- 💬 Ask Me About: Any Full stack project!
 - 💞️ I’m looking to collaborate on any ideas that come in this repository
-- 📫 How to reach me by email bmahuvi@gmail.com
+- 📫 Reach Me At: Email me at bmahuvi@gmail.com.
 
-<!---
-brysonmahuvi/brysonmahuvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠 Skills & Tools
+- Programming: Python, DART, PHP, Javascript
+- Frameworks & Libraries: Flutter, CodeIgniter, DJango,Laravel
+- Tools: Git/Github, Postman, Figma, IntelliJ IDE, Android Studio, VS Code
