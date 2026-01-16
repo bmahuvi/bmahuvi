@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Advanced API Testing
 - 💬 Ask Me About: Any Full stack project!
 - 💞️ I’m looking to collaborate on any ideas that come in this repository
-- 📫 Reach Me At: Email me at bmahuvi@gmail.com.
+- 📫 Reach Me At: Email me at bryson@tektek.co.tz.
 
 🛠 Skills & Tools
 - Programming: Python, DART, PHP, Javascript
